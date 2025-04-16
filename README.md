@@ -1,5 +1,5 @@
 
-# 🧠 Siamese Network-Based Facial Recognition Attendance System (with Evolutionary Algorithms)
+# Siamese Network-Based Facial Recognition Attendance System (with Evolutionary Algorithms)
 
 This project implements a facial recognition attendance system using a **Siamese Neural Network** trained with **Evolutionary Algorithms** for optimized performance. The system is designed to register and verify faces in real time through a **Streamlit** interface, making it ideal for academic and workplace attendance use cases.
 
