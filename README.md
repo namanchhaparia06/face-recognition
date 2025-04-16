@@ -1,1 +1,2 @@
-# face-recognition using Siamese Network
+# Face Recognintion using Siamese Network trained by Evolutionary Algorithms
+
